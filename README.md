@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD9F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Deep+Learning+Engineer+%40+Robust+Robotics;AI+%7C+MLOps+%7C+LLMOps+Enthusiast;Drone+Vision+%7C+Medical+AI+%7C+RAG+Pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD9F7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%7C+MLOps+%7C+LLMOps+Enthusiast;Drone+Vision+%7C+Medical+AI+%7C+RAG+Pipelines" alt="Typing SVG" />
 
 </div>
 
