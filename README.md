@@ -17,7 +17,7 @@
 ```python
 athrva = {
     "degree"    : "M-Tech in Data Science & AI (Integrated) @ DAVV Indore",
-    "currently" : "Deep Learning Engineer @ Robust Robotics",
+    "currently" : "Building Production grade AI Agent",
     "building"  : ["Autonomous Gimbal Drone System", "Medical AI Billing Agent"],
     "interests" : ["Computer Vision", "LLMs", "MLOps", "Agentic AI", "Robotics"],
     "mantra"    : "Ship fast. Learn faster. Build things that matter."
